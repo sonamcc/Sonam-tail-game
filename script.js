@@ -657,8 +657,8 @@ function main(timestamp) {
         ${!hardMode ? "<p>Press H for hard mode</p>" : ""}
         <p>
           Developed by
-          <a href="https://github.com/notkshitijsingh" , target="_top"
-            >@notkshitijsingh</a
+          <a href="https://github.com/sonamcc" , target="_top"
+            >@sonam</a
           >
         </p>`;
       noteElement.style.opacity = 1;
